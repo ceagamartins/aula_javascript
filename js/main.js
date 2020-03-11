@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 var nome = "Christian Martins"
 var idade = 29
@@ -60,3 +61,10 @@ var d = new Date()
 alert(d.getDay())
 alert(d.getHours())
 alert(d.getMinutes())
+=======
+var nome = "Christian Martins"
+var idade = 29
+var idade2 = 10
+//alert(`${nome} tem ${idade} anos`)
+///alert(idade + idade2)
+>>>>>>> 73d879b91ce124e5b06a0a3264cc7c53c18fad0b
