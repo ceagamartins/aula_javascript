@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> d12c13e1102b14524fd46757c7b83df4a7ed947a
 /*
 var nome = "Christian Martins"
 var idade = 29
@@ -61,6 +65,7 @@ var d = new Date()
 alert(d.getDay())
 alert(d.getHours())
 alert(d.getMinutes())
+<<<<<<< HEAD
 var nome = "Christian Martins"
 var idade = 29
 var idade2 = 10
@@ -116,3 +121,12 @@ function load(){
 function funcaoChange(elemento){
     console.log(elemento.value)
 }
+=======
+=======
+var nome = "Christian Martins"
+var idade = 29
+var idade2 = 10
+//alert(`${nome} tem ${idade} anos`)
+///alert(idade + idade2)
+>>>>>>> 73d879b91ce124e5b06a0a3264cc7c53c18fad0b
+>>>>>>> d12c13e1102b14524fd46757c7b83df4a7ed947a
